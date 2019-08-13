@@ -1,0 +1,25 @@
+{
+  "name": "Week12HW-Bamazon",
+  "version": "1.0.0",
+  "description": "Homework for Week 12: Amazon spoof application using Node and MySQL",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.5.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xisifer/Week12HW-Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xisifer/Week12HW-Bamazon/issues"
+  },
+  "homepage": "https://github.com/Xisifer/Week12HW-Bamazon#readme"
+}
