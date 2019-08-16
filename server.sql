@@ -15,7 +15,7 @@ product_name VARCHAR(200),
 -- Makes a Department Name column, allows 30 characters long
 department_name VARCHAR(200),
 -- Makes a price column, allows 10 digits for the dollars, and 2 decimals for the cents
-price DECIMAL(10,2),
+price DECIMAL(10,3),
 -- Makes a column for the quantity in stock, expressed as an integer
 stock_quantity INTEGER,
 -- Sets the primary key to item_id
